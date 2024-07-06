@@ -1,0 +1,9 @@
+React
+npm create vite@latest
+
+cd myshop
+npm install (nos construye el proyecto)
+npm run dev
+
+Biblioteca
+npm install react-router-dom
